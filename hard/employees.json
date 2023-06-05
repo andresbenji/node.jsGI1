@@ -1,0 +1,62 @@
+[
+  {
+    "employeeID": 1,
+    "name": "Andres Cuellar",
+    "salary": 100000,
+    "department": "Development"
+  },
+  {
+    "employeeID": 2,
+    "name": "Sbastian Bonilla",
+    "salary": 90000,
+    "department": "Development"
+  },
+  {
+    "employeeID": 3,
+    "name": "Kevin Lam",
+    "salary": 80000,
+    "department": "Development"
+  },
+  {
+    "employeeID": 4,
+    "name": "Kevin Torres",
+    "salary": 70000,
+    "department": "Development"
+  },
+  {
+    "employeeID": 5,
+    "name": "Abraham Varguez",
+    "salary": 60000,
+    "department": "Development"
+  },
+  {
+    "employeeID": 6,
+    "name": "Aishah Isom",
+    "salary": 50000,
+    "department": "Development"
+  },
+  {
+    "employeeID": 7,
+    "name": "Oscar Morado",
+    "salary": 40000,
+    "department": "Development"
+  },
+  {
+    "employeeID": 8,
+    "name": "Osiel Torres",
+    "salary": 30000,
+    "department": "Development"
+  },
+  {
+    "employeeID": 9,
+    "name": "John Doe",
+    "salary": 20000,
+    "department": "Development"
+  },
+  {
+    "employeeID": 10,
+    "name": "Adam Thao",
+    "salary": 10000,
+    "department": "Development"
+  }
+]
